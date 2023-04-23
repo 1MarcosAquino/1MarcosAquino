@@ -26,3 +26,6 @@
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
+<br/>
+
+![Snake animatio](https://github.com/1MarcosAquino/1MarcosAquino/blob/output/github-contribution-grid-snake.svg)
