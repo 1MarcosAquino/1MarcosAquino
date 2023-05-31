@@ -1,7 +1,6 @@
 ## Olá, 👋 sou Marcos!
 
 - 🔭 Hoje, sou desenvolvedor front-end | react | node JS
-- 
 - 🌱 estou estudando back-end / Python
 - 📫 <a target='_blank' haref='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn</a>
     📫 <a haref='#'>Portfólio</a>
