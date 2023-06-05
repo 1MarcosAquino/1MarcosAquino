@@ -1,6 +1,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DBE5F7&width=435&lines=Ol%C3%A1%2C+%F0%9F%91%8B+sou+Marcos!)](https://git.io/typing-svg)
     
-- 🔭 Hoje, sou desenvolvedor front-end | react | node JS
+- 🔭 Sou desenvolvedor front-end | react | node JS
 - 🌱 estou estudando back-end / Python
 - 📫 <a target='_blank' href='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn</a>
 - 😄 Pronouns: ele/dele
