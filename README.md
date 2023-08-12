@@ -3,7 +3,7 @@
 - 🔭 Sou desenvolvedor web | react | node JS | Python
 
 - 📫 <a target='_blank' href='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn</a>
-- 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>LinkedIn</a>
+- 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>Portfolio</a>
     
 - 😄 Pronouns: vós/sois
    
@@ -16,7 +16,8 @@
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 <br/>
 
