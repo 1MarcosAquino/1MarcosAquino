@@ -26,7 +26,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1MarcosAquino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MarcosAquino&layout=compact&langs_count=20&theme=radical"/>
 </div>
-    
-![Snake animation](https://github.com/1MarcosAquino/1MarcosAquino/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/1MarcosAquino/1MarcosAquino/blob/output/github-contribution-grid-snake.svg)
 </div>
