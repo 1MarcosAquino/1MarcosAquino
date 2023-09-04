@@ -5,8 +5,7 @@
 - 📫 <a target='_blank' href='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn</a>
 - 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>Portfolio</a>
     
-- 😄 Pronouns: vós/sois
-   
+
 <div align="center">
 <div>
   <img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
