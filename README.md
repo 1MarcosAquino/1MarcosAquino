@@ -1,4 +1,6 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DBE5F7&width=435&lines=Ol%C3%A1%2C+%F0%9F%91%8B+sou+Marcos!)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+%F0%9F%91%8B+sou+Marcos!)](https://git.io/typing-svg)
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0D1117&width=435&lines=Ol%C3%A1%2C+%F0%9F%91%8B+sou+Marcos!)](https://git.io/typing-svg)
     
 - Desenvolvedor Full-stack | Typescript | NodeJs |ReactJs | Python | Django | PostgreSQL
 
