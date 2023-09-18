@@ -2,7 +2,7 @@
     
 - 🔭 Sou desenvolvedor web | react | node JS | Python
 
-- 📫 <a target='_blank' href='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn</a>
+- 📫 <a target='_blank' href='https://www.linkedin.com/in/1marcosaquino/'>LinkedIn</a>
 - 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>Portfolio</a>
     
 
