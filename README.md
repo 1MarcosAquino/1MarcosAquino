@@ -1,6 +1,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DBE5F7&width=435&lines=Ol%C3%A1%2C+%F0%9F%91%8B+sou+Marcos!)](https://git.io/typing-svg)
     
-- 🔭 Sou desenvolvedor web | react | node JS | Python
+- Desenvolvedor Full-stack | Typescript | NodeJs |ReactJs | Python | Django | PostgreSQL
 
 - 📫 <a target='_blank' href='https://www.linkedin.com/in/1marcosaquino/'>LinkedIn</a>
 - 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>Portfolio</a>
