@@ -3,7 +3,7 @@
     
 - Desenvolvedor Full-stack | Typescript | NodeJs |ReactJs | Python | Django | PostgreSQL
 
-- 📫 <a target='_blank' href='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn Sem acesso por enquanto</a>
+- 📫 <a target='_blank' href='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn</a>
 
 - 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>Portfolio</a>
     
