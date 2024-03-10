@@ -5,9 +5,9 @@
 
 - 📫 <a target='_blank' href='https://www.linkedin.com/in/marcos-ferreira-de-aquino/'>LinkedIn</a>
 
-- 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>Portfolio</a>
+- 📫 <a target='_blank' href='https://my-portfolio-rose-alpha.vercel.app/'>Portfolio Antigo</a>
 
-- 📫 [Portfólio](https://1marcosaquino.github.io/Portfolio/) 
+- 📫 [Portfólio Novo](https://1marcosaquino.github.io/Portfolio/) 
 
 
 <div align="center">
