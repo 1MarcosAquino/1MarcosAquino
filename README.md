@@ -9,7 +9,6 @@
 Aqui você encontrará uma coleção dos meus projetos, habilidades e experiências.
 
 [![Portfólio](https://img.shields.io/badge/Portfolio-273D46?style=for-the-badge&logo=portfolio&logoColor=43EEF9)](https://1marcosaquino.github.io/Portfolio/)
-[![Portfólio](https://img.shields.io/badge/curriculo-273D46?style=for-the-badge&logo=curriculo&logoColor=43EEF9)](curriculo.pdf)
 
 ---
 
