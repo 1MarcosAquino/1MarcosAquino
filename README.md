@@ -6,6 +6,7 @@
 ---
 
 ### 🌟 Bem-vindo ao meu GitHub!
+
 Aqui você encontrará uma coleção dos meus projetos, habilidades e experiências.
 
 [![Portfólio](https://img.shields.io/badge/Portfolio-273D46?style=for-the-badge&logo=portfolio&logoColor=43EEF9)](https://1marcosaquino.github.io/Portfolio/)
@@ -14,7 +15,7 @@ Aqui você encontrará uma coleção dos meus projetos, habilidades e experiênc
 
 ## 📬 Contato
 
-[![GMAIL](https://img.shields.io/badge/Gmail-273D46?style=for-the-badge&logo=gmail&logoColor=43EEF9)](mailto:contatomarcosaquino@gmai.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-273D46?style=for-the-badge&logo=gmail&logoColor=43EEF9)](mailto:contatomarcosaquino@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-273D46?style=for-the-badge&logo=linkedin&logoColor=43EEF9)](https://linkedin.com/in/marcosaquino21)
 
 ---
@@ -27,26 +28,28 @@ Aqui você encontrará uma coleção dos meus projetos, habilidades e experiênc
 ![TypeScript](https://img.shields.io/badge/TypeScript-273D46?style=for-the-badge&logo=typescript&logoColor=43EEF9)
 ![React](https://img.shields.io/badge/React-273D46?style=for-the-badge&logo=react&logoColor=43EEF9)
 ![jQuery](https://img.shields.io/badge/jQuery-273D46?style=for-the-badge&logo=jquery&logoColor=43EEF9)
-![C#](https://img.shields.io/badge/C%23-273D46?style=for-the-badge&logo=dotnet&logoColor=43EEF9)
+
+<!-- ![C#](https://img.shields.io/badge/C%23-273D46?style=for-the-badge&logo=dotnet&logoColor=43EEF9) -->
+
 ![PHP](https://img.shields.io/badge/PHP-273D46?style=for-the-badge&logo=php&logoColor=43EEF9)
-![Docker](https://img.shields.io/badge/Docker-273D46?style=for-the-badge&logo=docker&logoColor=43EEF9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273D46?style=for-the-badge&logo=postgresql&logoColor=43EEF9)
+
+<!-- ![Docker](https://img.shields.io/badge/Docker-273D46?style=for-the-badge&logo=docker&logoColor=43EEF9) -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-273D46?style=for-the-badge&logo=postgresql&logoColor=43EEF9) -->
 
 ---
 
 ## 📊 Estatísticas
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1MarcosAquino&show_icons=true&bg_color=273D46&theme=react&include_all_commits=true&count_private=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1MarcosAquino&layout=compact&langs_count=20&bg_color=273D46&theme=react&locale=pt-br)  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1MarcosAquino&show_icons=true&bg_color=273D46&theme=react&include_all_commits=true&count_private=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1MarcosAquino&layout=compact&langs_count=20&bg_color=273D46&theme=react&locale=pt-br) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-<img src="https://streak-stats.demolab.com?user=1MarcosAquino&theme=blux&hide_border=true&locale=pt_BR" alt="Footer Statics" width="100%">
+<!-- <img src="https://streak-stats.demolab.com?user=1MarcosAquino&theme=blux&hide_border=true&locale=pt_BR" alt="Footer Statics" width="100%"> -->
 
 ---
 
-### 🐍 GitHub Snake
+## 🐍 GitHub Snake
 
 [![stats-Dark](dist/github-snake-dark.svg#gh-dark-mode-only)](https://github.com/1MarcosAquino/github-readme-stats#gh-dark-mode-only)[![stats-Light](dist/github-snake.svg#gh-light-mode-only)](https://github.com/1MarcosAquino/github-readme-stats#gh-light-mode-only)
-
 
 ---
 
