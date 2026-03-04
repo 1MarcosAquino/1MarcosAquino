@@ -4,6 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=339AA1&width=440&height=64&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
+<h2 class="title">👨‍💻 SOBRE MIM</h2>
+<p class="text">Se passaram quase 5 anos desde que eu comecei a estudar para trabalhar como desenvolvedor. Meus principais projeto estão privados no github.</p>
+
 <h2 class="title">🚀 PROJETOS</h2>
 
 [![Portfólio](https://img.shields.io/badge/⭐_Portfolio-273D46?style=for-the-badge)](https://1marcosaquino.github.io/Portfolio/)
