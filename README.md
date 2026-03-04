@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=339AA1&width=440&height=64&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
-<style>.text{color:#ffffff;background-color:#273D46; padding:6px 10px;display: inline-block; font-weight: 500; font-size:14px; letter-spacing:1.2px; text-indent:16px;  text-align:justify;} .title{color:#36A3AA}</style>
-
 <h2 class="title">👨‍💻 SOBRE MIM</h2>
 <p class="text" >Desenvolvedor full stack PHP e REACT, atuei na construção de APIs RESTful com banco de dados MySQL (MARIA DB) e na
     criação de funcionalidades para APIS e SITES. Usando REACT e TypeScript criei meu portfólio, landing pages e
