@@ -4,11 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=339AA1&width=440&height=64&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
-<h2 class="title">👨‍💻 SOBRE MIM</h2>
-<p class="text" >Desenvolvedor full stack PHP e REACT, atuei na construção de APIs RESTful com banco de dados MySQL (MARIA DB) e na
-    criação de funcionalidades para APIS e SITES. Usando REACT e TypeScript criei meu portfólio, landing pages e
-    projetos pessoais.</p>
-
 <h2 class="title">🚀 PROJETOS</h2>
 
 [![Portfólio](https://img.shields.io/badge/⭐_Portfolio-273D46?style=for-the-badge)](https://1marcosaquino.github.io/Portfolio/)
